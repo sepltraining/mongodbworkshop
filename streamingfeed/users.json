@@ -1,0 +1,282 @@
+[
+  {
+    "_id": "user_1",
+    "name": "User 1",
+    "email": "user1@stream.com",
+    "country": "UK",
+    "age": 17,
+    "createdAt": "2025-07-11T11:53:52.838781"
+  },
+  {
+    "_id": "user_2",
+    "name": "User 2",
+    "email": "user2@stream.com",
+    "country": "US",
+    "age": 53,
+    "createdAt": "2023-01-12T11:53:52.838805"
+  },
+  {
+    "_id": "user_3",
+    "name": "User 3",
+    "email": "user3@stream.com",
+    "country": "Australia",
+    "age": 58,
+    "createdAt": "2025-10-30T11:53:52.838816"
+  },
+  {
+    "_id": "user_4",
+    "name": "User 4",
+    "email": "user4@stream.com",
+    "country": "UK",
+    "age": 24,
+    "createdAt": "2024-03-30T11:53:52.838823"
+  },
+  {
+    "_id": "user_5",
+    "name": "User 5",
+    "email": "user5@stream.com",
+    "country": "Canada",
+    "age": 28,
+    "createdAt": "2022-11-17T11:53:52.838830"
+  },
+  {
+    "_id": "user_6",
+    "name": "User 6",
+    "email": "user6@stream.com",
+    "country": "UK",
+    "age": 39,
+    "createdAt": "2024-05-30T11:53:52.838836"
+  },
+  {
+    "_id": "user_7",
+    "name": "User 7",
+    "email": "user7@stream.com",
+    "country": "India",
+    "age": 18,
+    "createdAt": "2024-01-28T11:53:52.838842"
+  },
+  {
+    "_id": "user_8",
+    "name": "User 8",
+    "email": "user8@stream.com",
+    "country": "UK",
+    "age": 17,
+    "createdAt": "2022-11-16T11:53:52.838848"
+  },
+  {
+    "_id": "user_9",
+    "name": "User 9",
+    "email": "user9@stream.com",
+    "country": "US",
+    "age": 42,
+    "createdAt": "2025-08-14T11:53:52.838853"
+  },
+  {
+    "_id": "user_10",
+    "name": "User 10",
+    "email": "user10@stream.com",
+    "country": "UK",
+    "age": 34,
+    "createdAt": "2024-10-29T11:53:52.838859"
+  },
+  {
+    "_id": "user_11",
+    "name": "User 11",
+    "email": "user11@stream.com",
+    "country": "UK",
+    "age": 58,
+    "createdAt": "2024-03-03T11:53:52.838865"
+  },
+  {
+    "_id": "user_12",
+    "name": "User 12",
+    "email": "user12@stream.com",
+    "country": "UK",
+    "age": 58,
+    "createdAt": "2024-11-28T11:53:52.838871"
+  },
+  {
+    "_id": "user_13",
+    "name": "User 13",
+    "email": "user13@stream.com",
+    "country": "India",
+    "age": 23,
+    "createdAt": "2023-04-12T11:53:52.838877"
+  },
+  {
+    "_id": "user_14",
+    "name": "User 14",
+    "email": "user14@stream.com",
+    "country": "UK",
+    "age": 40,
+    "createdAt": "2025-05-14T11:53:52.838883"
+  },
+  {
+    "_id": "user_15",
+    "name": "User 15",
+    "email": "user15@stream.com",
+    "country": "Canada",
+    "age": 56,
+    "createdAt": "2022-12-26T11:53:52.838889"
+  },
+  {
+    "_id": "user_16",
+    "name": "User 16",
+    "email": "user16@stream.com",
+    "country": "US",
+    "age": 50,
+    "createdAt": "2025-01-26T11:53:52.838895"
+  },
+  {
+    "_id": "user_17",
+    "name": "User 17",
+    "email": "user17@stream.com",
+    "country": "India",
+    "age": 55,
+    "createdAt": "2023-07-09T11:53:52.838901"
+  },
+  {
+    "_id": "user_18",
+    "name": "User 18",
+    "email": "user18@stream.com",
+    "country": "India",
+    "age": 31,
+    "createdAt": "2025-01-05T11:53:52.838907"
+  },
+  {
+    "_id": "user_19",
+    "name": "User 19",
+    "email": "user19@stream.com",
+    "country": "UK",
+    "age": 33,
+    "createdAt": "2022-09-19T11:53:52.838913"
+  },
+  {
+    "_id": "user_20",
+    "name": "User 20",
+    "email": "user20@stream.com",
+    "country": "India",
+    "age": 17,
+    "createdAt": "2024-08-29T11:53:52.838919"
+  },
+  {
+    "_id": "user_21",
+    "name": "User 21",
+    "email": "user21@stream.com",
+    "country": "US",
+    "age": 31,
+    "createdAt": "2024-07-06T11:53:52.838933"
+  },
+  {
+    "_id": "user_22",
+    "name": "User 22",
+    "email": "user22@stream.com",
+    "country": "Australia",
+    "age": 52,
+    "createdAt": "2025-05-01T11:53:52.838938"
+  },
+  {
+    "_id": "user_23",
+    "name": "User 23",
+    "email": "user23@stream.com",
+    "country": "UK",
+    "age": 46,
+    "createdAt": "2025-05-21T11:53:52.838944"
+  },
+  {
+    "_id": "user_24",
+    "name": "User 24",
+    "email": "user24@stream.com",
+    "country": "US",
+    "age": 50,
+    "createdAt": "2023-09-29T11:53:52.838950"
+  },
+  {
+    "_id": "user_25",
+    "name": "User 25",
+    "email": "user25@stream.com",
+    "country": "Australia",
+    "age": 59,
+    "createdAt": "2025-09-15T11:53:52.838955"
+  },
+  {
+    "_id": "user_1",
+    "name": "User 1",
+    "email": "user1@stream.com",
+    "country": "UK",
+    "age": 40,
+    "createdAt": "2025-09-29T11:53:52.841383"
+  },
+  {
+    "_id": "user_2",
+    "name": "User 2",
+    "email": "user2@stream.com",
+    "country": "India",
+    "age": 56,
+    "createdAt": "2023-11-16T11:53:52.841393"
+  },
+  {
+    "_id": "user_3",
+    "name": "User 3",
+    "email": "user3@stream.com",
+    "country": "US",
+    "age": 53,
+    "createdAt": "2024-05-20T11:53:52.841401"
+  },
+  {
+    "_id": "user_4",
+    "name": "User 4",
+    "email": "user4@stream.com",
+    "country": "Australia",
+    "age": 42,
+    "createdAt": "2024-11-25T11:53:52.841407"
+  },
+  {
+    "_id": "user_5",
+    "name": "User 5",
+    "email": "user5@stream.com",
+    "country": "Australia",
+    "age": 36,
+    "createdAt": "2022-08-19T11:53:52.841449"
+  },
+  {
+    "_id": "user_6",
+    "name": "User 6",
+    "email": "user6@stream.com",
+    "country": "Canada",
+    "age": 50,
+    "createdAt": "2024-04-12T11:53:52.841461"
+  },
+  {
+    "_id": "user_7",
+    "name": "User 7",
+    "email": "user7@stream.com",
+    "country": "Australia",
+    "age": 24,
+    "createdAt": "2024-02-06T11:53:52.841471"
+  },
+  {
+    "_id": "user_8",
+    "name": "User 8",
+    "email": "user8@stream.com",
+    "country": "India",
+    "age": 41,
+    "createdAt": "2024-10-25T11:53:52.841481"
+  },
+  {
+    "_id": "user_9",
+    "name": "User 9",
+    "email": "user9@stream.com",
+    "country": "India",
+    "age": 46,
+    "createdAt": "2024-09-14T11:53:52.841491"
+  },
+  {
+    "_id": "user_10",
+    "name": "User 10",
+    "email": "user10@stream.com",
+    "country": "UK",
+    "age": 20,
+    "createdAt": "2025-09-25T11:53:52.841501"
+  }
+]

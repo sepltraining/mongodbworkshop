@@ -1,0 +1,562 @@
+[
+  {
+    "_id": "sm_1",
+    "type": "movie",
+    "title": "Movie Title xi1m",
+    "description": "Movie description 1",
+    "genre": "Drama",
+    "releaseYear": 2015
+  },
+  {
+    "_id": "sm_2",
+    "type": "movie",
+    "title": "Movie Title 3rvm",
+    "description": "Movie description 2",
+    "genre": "Action",
+    "releaseYear": 2023
+  },
+  {
+    "_id": "sm_3",
+    "type": "show",
+    "title": "Show Title 18gn",
+    "description": "Show description 3",
+    "genre": "Drama",
+    "releaseYear": 2005
+  },
+  {
+    "_id": "sm_4",
+    "type": "show",
+    "title": "Show Title bip5",
+    "description": "Show description 4",
+    "genre": "Comedy",
+    "releaseYear": 2021
+  },
+  {
+    "_id": "sm_5",
+    "type": "movie",
+    "title": "Movie Title r9o7",
+    "description": "Movie description 5",
+    "genre": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "_id": "sm_6",
+    "type": "movie",
+    "title": "Movie Title gq0p",
+    "description": "Movie description 6",
+    "genre": "Comedy",
+    "releaseYear": 1999
+  },
+  {
+    "_id": "sm_7",
+    "type": "movie",
+    "title": "Movie Title 5iza",
+    "description": "Movie description 7",
+    "genre": "Drama",
+    "releaseYear": 2012
+  },
+  {
+    "_id": "sm_8",
+    "type": "movie",
+    "title": "Movie Title n0co",
+    "description": "Movie description 8",
+    "genre": "Action",
+    "releaseYear": 2001
+  },
+  {
+    "_id": "sm_9",
+    "type": "movie",
+    "title": "Movie Title 1rjg",
+    "description": "Movie description 9",
+    "genre": "Action",
+    "releaseYear": 1980
+  },
+  {
+    "_id": "sm_10",
+    "type": "movie",
+    "title": "Movie Title lkcw",
+    "description": "Movie description 10",
+    "genre": "Documentary",
+    "releaseYear": 2000
+  },
+  {
+    "_id": "sm_11",
+    "type": "movie",
+    "title": "Movie Title 92nz",
+    "description": "Movie description 11",
+    "genre": "Horror",
+    "releaseYear": 1986
+  },
+  {
+    "_id": "sm_12",
+    "type": "movie",
+    "title": "Movie Title vsep",
+    "description": "Movie description 12",
+    "genre": "Comedy",
+    "releaseYear": 1986
+  },
+  {
+    "_id": "sm_13",
+    "type": "show",
+    "title": "Show Title oqhp",
+    "description": "Show description 13",
+    "genre": "Drama",
+    "releaseYear": 1995
+  },
+  {
+    "_id": "sm_14",
+    "type": "movie",
+    "title": "Movie Title btn5",
+    "description": "Movie description 14",
+    "genre": "Horror",
+    "releaseYear": 2016
+  },
+  {
+    "_id": "sm_15",
+    "type": "movie",
+    "title": "Movie Title 4smv",
+    "description": "Movie description 15",
+    "genre": "Sci-Fi",
+    "releaseYear": 1995
+  },
+  {
+    "_id": "sm_16",
+    "type": "show",
+    "title": "Show Title hkg1",
+    "description": "Show description 16",
+    "genre": "Sci-Fi",
+    "releaseYear": 2013
+  },
+  {
+    "_id": "sm_17",
+    "type": "show",
+    "title": "Show Title nykn",
+    "description": "Show description 17",
+    "genre": "Sci-Fi",
+    "releaseYear": 1980
+  },
+  {
+    "_id": "sm_18",
+    "type": "movie",
+    "title": "Movie Title i2kc",
+    "description": "Movie description 18",
+    "genre": "Comedy",
+    "releaseYear": 2025
+  },
+  {
+    "_id": "sm_19",
+    "type": "movie",
+    "title": "Movie Title skz7",
+    "description": "Movie description 19",
+    "genre": "Documentary",
+    "releaseYear": 2004
+  },
+  {
+    "_id": "sm_20",
+    "type": "show",
+    "title": "Show Title tbtn",
+    "description": "Show description 20",
+    "genre": "Horror",
+    "releaseYear": 2010
+  },
+  {
+    "_id": "sm_21",
+    "type": "show",
+    "title": "Show Title 24u3",
+    "description": "Show description 21",
+    "genre": "Sci-Fi",
+    "releaseYear": 1997
+  },
+  {
+    "_id": "sm_22",
+    "type": "show",
+    "title": "Show Title 7ghd",
+    "description": "Show description 22",
+    "genre": "Comedy",
+    "releaseYear": 1985
+  },
+  {
+    "_id": "sm_23",
+    "type": "show",
+    "title": "Show Title n1ok",
+    "description": "Show description 23",
+    "genre": "Sci-Fi",
+    "releaseYear": 2014
+  },
+  {
+    "_id": "sm_24",
+    "type": "show",
+    "title": "Show Title qwx7",
+    "description": "Show description 24",
+    "genre": "Drama",
+    "releaseYear": 1995
+  },
+  {
+    "_id": "sm_25",
+    "type": "movie",
+    "title": "Movie Title 4htb",
+    "description": "Movie description 25",
+    "genre": "Sci-Fi",
+    "releaseYear": 1983
+  },
+  {
+    "_id": "sm_26",
+    "type": "show",
+    "title": "Show Title vse8",
+    "description": "Show description 26",
+    "genre": "Documentary",
+    "releaseYear": 1999
+  },
+  {
+    "_id": "sm_27",
+    "type": "show",
+    "title": "Show Title tsne",
+    "description": "Show description 27",
+    "genre": "Drama",
+    "releaseYear": 2022
+  },
+  {
+    "_id": "sm_28",
+    "type": "movie",
+    "title": "Movie Title 0jd9",
+    "description": "Movie description 28",
+    "genre": "Sci-Fi",
+    "releaseYear": 2025
+  },
+  {
+    "_id": "sm_29",
+    "type": "movie",
+    "title": "Movie Title mhsq",
+    "description": "Movie description 29",
+    "genre": "Action",
+    "releaseYear": 2007
+  },
+  {
+    "_id": "sm_30",
+    "type": "show",
+    "title": "Show Title 5ky9",
+    "description": "Show description 30",
+    "genre": "Comedy",
+    "releaseYear": 1985
+  },
+  {
+    "_id": "sm_31",
+    "type": "show",
+    "title": "Show Title 0ac5",
+    "description": "Show description 31",
+    "genre": "Comedy",
+    "releaseYear": 2009
+  },
+  {
+    "_id": "sm_32",
+    "type": "show",
+    "title": "Show Title hqns",
+    "description": "Show description 32",
+    "genre": "Comedy",
+    "releaseYear": 1980
+  },
+  {
+    "_id": "sm_33",
+    "type": "movie",
+    "title": "Movie Title o115",
+    "description": "Movie description 33",
+    "genre": "Documentary",
+    "releaseYear": 2006
+  },
+  {
+    "_id": "sm_34",
+    "type": "movie",
+    "title": "Movie Title ch93",
+    "description": "Movie description 34",
+    "genre": "Horror",
+    "releaseYear": 1997
+  },
+  {
+    "_id": "sm_35",
+    "type": "show",
+    "title": "Show Title mjqs",
+    "description": "Show description 35",
+    "genre": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "_id": "sm_36",
+    "type": "movie",
+    "title": "Movie Title yh5r",
+    "description": "Movie description 36",
+    "genre": "Drama",
+    "releaseYear": 2001
+  },
+  {
+    "_id": "sm_37",
+    "type": "movie",
+    "title": "Movie Title al36",
+    "description": "Movie description 37",
+    "genre": "Sci-Fi",
+    "releaseYear": 1980
+  },
+  {
+    "_id": "sm_38",
+    "type": "show",
+    "title": "Show Title 75mq",
+    "description": "Show description 38",
+    "genre": "Documentary",
+    "releaseYear": 1987
+  },
+  {
+    "_id": "sm_39",
+    "type": "movie",
+    "title": "Movie Title xrn8",
+    "description": "Movie description 39",
+    "genre": "Horror",
+    "releaseYear": 2023
+  },
+  {
+    "_id": "sm_40",
+    "type": "show",
+    "title": "Show Title 9wq9",
+    "description": "Show description 40",
+    "genre": "Documentary",
+    "releaseYear": 2014
+  },
+  {
+    "_id": "sm_1",
+    "type": "movie",
+    "title": "Movie Title ojpa",
+    "description": "Movie description 1",
+    "genre": "Comedy",
+    "releaseYear": 2018
+  },
+  {
+    "_id": "sm_2",
+    "type": "show",
+    "title": "Show Title w094",
+    "description": "Show description 2",
+    "genre": "Sci-Fi",
+    "releaseYear": 2001
+  },
+  {
+    "_id": "sm_3",
+    "type": "show",
+    "title": "Show Title ht9a",
+    "description": "Show description 3",
+    "genre": "Documentary",
+    "releaseYear": 1986
+  },
+  {
+    "_id": "sm_4",
+    "type": "show",
+    "title": "Show Title n0nl",
+    "description": "Show description 4",
+    "genre": "Sci-Fi",
+    "releaseYear": 1990
+  },
+  {
+    "_id": "sm_5",
+    "type": "show",
+    "title": "Show Title ml6b",
+    "description": "Show description 5",
+    "genre": "Drama",
+    "releaseYear": 1997
+  },
+  {
+    "_id": "sm_6",
+    "type": "show",
+    "title": "Show Title 295m",
+    "description": "Show description 6",
+    "genre": "Horror",
+    "releaseYear": 1996
+  },
+  {
+    "_id": "sm_7",
+    "type": "show",
+    "title": "Show Title w0rh",
+    "description": "Show description 7",
+    "genre": "Comedy",
+    "releaseYear": 2015
+  },
+  {
+    "_id": "sm_8",
+    "type": "movie",
+    "title": "Movie Title p4fh",
+    "description": "Movie description 8",
+    "genre": "Documentary",
+    "releaseYear": 2025
+  },
+  {
+    "_id": "sm_9",
+    "type": "show",
+    "title": "Show Title x62p",
+    "description": "Show description 9",
+    "genre": "Sci-Fi",
+    "releaseYear": 2007
+  },
+  {
+    "_id": "sm_10",
+    "type": "movie",
+    "title": "Movie Title qbfz",
+    "description": "Movie description 10",
+    "genre": "Horror",
+    "releaseYear": 2015
+  },
+  {
+    "_id": "sm_11",
+    "type": "movie",
+    "title": "Movie Title 6674",
+    "description": "Movie description 11",
+    "genre": "Action",
+    "releaseYear": 2010
+  },
+  {
+    "_id": "sm_12",
+    "type": "show",
+    "title": "Show Title oldh",
+    "description": "Show description 12",
+    "genre": "Comedy",
+    "releaseYear": 1992
+  },
+  {
+    "_id": "sm_13",
+    "type": "movie",
+    "title": "Movie Title aa6a",
+    "description": "Movie description 13",
+    "genre": "Comedy",
+    "releaseYear": 1998
+  },
+  {
+    "_id": "sm_14",
+    "type": "show",
+    "title": "Show Title bf3j",
+    "description": "Show description 14",
+    "genre": "Comedy",
+    "releaseYear": 2019
+  },
+  {
+    "_id": "sm_15",
+    "type": "movie",
+    "title": "Movie Title rvme",
+    "description": "Movie description 15",
+    "genre": "Comedy",
+    "releaseYear": 2010
+  },
+  {
+    "_id": "sm_16",
+    "type": "movie",
+    "title": "Movie Title ah4l",
+    "description": "Movie description 16",
+    "genre": "Action",
+    "releaseYear": 2003
+  },
+  {
+    "_id": "sm_17",
+    "type": "show",
+    "title": "Show Title e5rt",
+    "description": "Show description 17",
+    "genre": "Documentary",
+    "releaseYear": 2003
+  },
+  {
+    "_id": "sm_18",
+    "type": "movie",
+    "title": "Movie Title cfsz",
+    "description": "Movie description 18",
+    "genre": "Comedy",
+    "releaseYear": 1985
+  },
+  {
+    "_id": "sm_19",
+    "type": "movie",
+    "title": "Movie Title vfqs",
+    "description": "Movie description 19",
+    "genre": "Documentary",
+    "releaseYear": 2022
+  },
+  {
+    "_id": "sm_20",
+    "type": "show",
+    "title": "Show Title rjnm",
+    "description": "Show description 20",
+    "genre": "Drama",
+    "releaseYear": 2013
+  },
+  {
+    "_id": "sm_21",
+    "type": "movie",
+    "title": "Movie Title qms1",
+    "description": "Movie description 21",
+    "genre": "Documentary",
+    "releaseYear": 1984
+  },
+  {
+    "_id": "sm_22",
+    "type": "movie",
+    "title": "Movie Title d97b",
+    "description": "Movie description 22",
+    "genre": "Comedy",
+    "releaseYear": 1987
+  },
+  {
+    "_id": "sm_23",
+    "type": "movie",
+    "title": "Movie Title imj6",
+    "description": "Movie description 23",
+    "genre": "Drama",
+    "releaseYear": 2010
+  },
+  {
+    "_id": "sm_24",
+    "type": "show",
+    "title": "Show Title xcuh",
+    "description": "Show description 24",
+    "genre": "Horror",
+    "releaseYear": 1982
+  },
+  {
+    "_id": "sm_25",
+    "type": "show",
+    "title": "Show Title 8pvj",
+    "description": "Show description 25",
+    "genre": "Drama",
+    "releaseYear": 1994
+  },
+  {
+    "_id": "sm_26",
+    "type": "show",
+    "title": "Show Title 32cz",
+    "description": "Show description 26",
+    "genre": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "_id": "sm_27",
+    "type": "movie",
+    "title": "Movie Title cwml",
+    "description": "Movie description 27",
+    "genre": "Action",
+    "releaseYear": 2012
+  },
+  {
+    "_id": "sm_28",
+    "type": "show",
+    "title": "Show Title b5kc",
+    "description": "Show description 28",
+    "genre": "Documentary",
+    "releaseYear": 1989
+  },
+  {
+    "_id": "sm_29",
+    "type": "show",
+    "title": "Show Title mwqm",
+    "description": "Show description 29",
+    "genre": "Action",
+    "releaseYear": 2024
+  },
+  {
+    "_id": "sm_30",
+    "type": "movie",
+    "title": "Movie Title i24l",
+    "description": "Movie description 30",
+    "genre": "Drama",
+    "releaseYear": 2019
+  }
+]

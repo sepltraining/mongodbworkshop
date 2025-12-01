@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "user_1",
+    "username": "userjbxvs",
+    "profilePic": "https://picsum.photos/seed/0/200/200",
+    "bio": "Bio for user 1",
+    "createdAt": "2024-02-22T11:37:33.643846"
+  },
+  {
+    "_id": "user_2",
+    "username": "useryafyk",
+    "profilePic": "https://picsum.photos/seed/1/200/200",
+    "bio": "Bio for user 2",
+    "createdAt": "2024-08-14T11:37:33.643883"
+  },
+  {
+    "_id": "user_3",
+    "username": "user90mo4",
+    "profilePic": "https://picsum.photos/seed/2/200/200",
+    "bio": "Bio for user 3",
+    "createdAt": "2025-09-27T11:37:33.643900"
+  },
+  {
+    "_id": "user_4",
+    "username": "userljtpb",
+    "profilePic": "https://picsum.photos/seed/3/200/200",
+    "bio": "Bio for user 4",
+    "createdAt": "2025-01-06T11:37:33.643912"
+  },
+  {
+    "_id": "user_5",
+    "username": "user0l8gy",
+    "profilePic": "https://picsum.photos/seed/4/200/200",
+    "bio": "Bio for user 5",
+    "createdAt": "2025-02-17T11:37:33.643923"
+  },
+  {
+    "_id": "user_6",
+    "username": "useryb5fw",
+    "profilePic": "https://picsum.photos/seed/5/200/200",
+    "bio": "Bio for user 6",
+    "createdAt": "2024-10-10T11:37:33.643936"
+  },
+  {
+    "_id": "user_7",
+    "username": "userd9zsz",
+    "profilePic": "https://picsum.photos/seed/6/200/200",
+    "bio": "Bio for user 7",
+    "createdAt": "2024-04-27T11:37:33.643949"
+  },
+  {
+    "_id": "user_8",
+    "username": "userfa7w4",
+    "profilePic": "https://picsum.photos/seed/7/200/200",
+    "bio": "Bio for user 8",
+    "createdAt": "2025-02-27T11:37:33.643960"
+  },
+  {
+    "_id": "user_9",
+    "username": "user2fl86",
+    "profilePic": "https://picsum.photos/seed/8/200/200",
+    "bio": "Bio for user 9",
+    "createdAt": "2025-08-24T11:37:33.643971"
+  },
+  {
+    "_id": "user_10",
+    "username": "userb4061",
+    "profilePic": "https://picsum.photos/seed/9/200/200",
+    "bio": "Bio for user 10",
+    "createdAt": "2024-04-22T11:37:33.643983"
+  },
+  {
+    "_id": "user_11",
+    "username": "userujdiu",
+    "profilePic": "https://picsum.photos/seed/10/200/200",
+    "bio": "Bio for user 11",
+    "createdAt": "2024-01-01T11:37:33.643996"
+  },
+  {
+    "_id": "user_12",
+    "username": "useruybxi",
+    "profilePic": "https://picsum.photos/seed/11/200/200",
+    "bio": "Bio for user 12",
+    "createdAt": "2023-10-12T11:37:33.644008"
+  },
+  {
+    "_id": "user_13",
+    "username": "useratct3",
+    "profilePic": "https://picsum.photos/seed/12/200/200",
+    "bio": "Bio for user 13",
+    "createdAt": "2024-06-26T11:37:33.644027"
+  },
+  {
+    "_id": "user_14",
+    "username": "usernbuy1",
+    "profilePic": "https://picsum.photos/seed/13/200/200",
+    "bio": "Bio for user 14",
+    "createdAt": "2024-07-26T11:37:33.644037"
+  },
+  {
+    "_id": "user_15",
+    "username": "usergneob",
+    "profilePic": "https://picsum.photos/seed/14/200/200",
+    "bio": "Bio for user 15",
+    "createdAt": "2024-07-26T11:37:33.644054"
+  },
+  {
+    "_id": "user_16",
+    "username": "userip57x",
+    "profilePic": "https://picsum.photos/seed/15/200/200",
+    "bio": "Bio for user 16",
+    "createdAt": "2024-09-20T11:37:33.644065"
+  },
+  {
+    "_id": "user_17",
+    "username": "userr9o71",
+    "profilePic": "https://picsum.photos/seed/16/200/200",
+    "bio": "Bio for user 17",
+    "createdAt": "2025-04-30T11:37:33.644075"
+  },
+  {
+    "_id": "user_18",
+    "username": "user9gq0p",
+    "profilePic": "https://picsum.photos/seed/17/200/200",
+    "bio": "Bio for user 18",
+    "createdAt": "2025-06-24T11:37:33.644086"
+  },
+  {
+    "_id": "user_19",
+    "username": "userkpypr",
+    "profilePic": "https://picsum.photos/seed/18/200/200",
+    "bio": "Bio for user 19",
+    "createdAt": "2025-11-07T11:37:33.644098"
+  },
+  {
+    "_id": "user_20",
+    "username": "userb4zn0",
+    "profilePic": "https://picsum.photos/seed/19/200/200",
+    "bio": "Bio for user 20",
+    "createdAt": "2025-09-15T11:37:33.644109"
+  }
+]
